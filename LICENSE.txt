@@ -1,0 +1,36 @@
+MIT License
+
+Copyright (c) 2026
+PT Inovixa Technologies Solution
+Pengembang Utama: Dani Joest
+
+Dengan ini diberikan izin, secara cuma-cuma, kepada setiap orang yang memperoleh
+salinan perangkat lunak ini dan file dokumentasi terkait (“Perangkat Lunak”),
+untuk menggunakan Perangkat Lunak tanpa batasan, termasuk tanpa batasan hak
+untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan,
+mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak,
+dengan ketentuan sebagai berikut:
+
+Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan
+dalam setiap salinan atau bagian substansial dari Perangkat Lunak.
+
+PERANGKAT LUNAK INI DISEDIAKAN “SEBAGAIMANA ADANYA”, TANPA JAMINAN APA PUN,
+BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN
+KELAYAKAN UNTUK DIPERDAGANGKAN, KESESUAIAN UNTUK TUJUAN TERTENTU, DAN
+TIDAK MELANGGAR HAK PIHAK LAIN.
+
+DALAM KEADAAN APA PUN, PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERTANGGUNG JAWAB
+ATAS KLAIM, KERUSAKAN, ATAU TANGGUNG JAWAB LAINNYA, BAIK DALAM TINDAKAN KONTRAK,
+PERBUATAN MELAWAN HUKUM, ATAU LAINNYA, YANG TIMBUL DARI, ATAU SEHUBUNGAN DENGAN
+PERANGKAT LUNAK ATAU PENGGUNAAN ATAU TRANSAKSI LAIN DALAM PERANGKAT LUNAK INI.
+
+-------------------------------------------------------------------------------
+
+Nama Proyek  : Flowix (Script Market & Payment Gateway)
+Repository   : Open Source Project
+Lisensi      : MIT License
+Tahun Rilis  : 2026
+
+Kontribusi, pelaporan bug, dan pengembangan lanjutan sangat terbuka
+melalui repositori GitHub resmi proyek ini.
+ 

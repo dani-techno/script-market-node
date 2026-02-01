@@ -1,0 +1,10 @@
+/project-root
+  ├── .env                (Menyimpan Rahasia API)
+  ├── package.json
+  ├── server.js           (Main Backend Logic)
+  ├── config.js           (Konfigurasi Terpusat)
+  ├── public/
+  │   └── images/
+  │       └── wa-bot-topup.jpg
+  └── views/
+      └── index.ejs       (Frontend UI)
